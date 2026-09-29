@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Access-Security-Broker/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Access-Security-Broker?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Access-Security-Broker/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Access-Security-Broker?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Access-Security-Broker/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Access-Security-Broker?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Access-Security-Broker/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Access-Security-Broker?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,9 +67,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 💻 Open-Source GitHub Projects & Building Blocks
 
-> 💡 **Open-Source Landscape Reality**: Production CASB platforms are among the most commercially consolidated cybersecurity categories. No single open-source repository matches full enterprise-scale inline proxies or multi-SaaS API coverage. The projects below represent complete engines, educational foundations, and essential building blocks sorted by GitHub Stars (descending).
+> 💡 **Open-Source Landscape Reality**: Production CASB platforms are among the most commercially consolidated cybersecurity categories. No single open-source repository matches full enterprise-scale inline proxies or multi-SaaS API coverage. The projects below represent complete engines, educational foundations, and essential building blocks sorted by GitHub_Stars (descending).
 
-| Project & Repository | Stars | Description & Focus |
+| Project & Repository | GitHub_Stars | Description & Focus |
 | :--- | :--- | :--- |
 | **[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)** 🌟 | <a href="https://github.com/prowler-cloud/prowler/stargazers"><img src="https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white" alt="Stars"/></a> | **SSPM & CSPM Engine**. Premier open-source security posture management tool for AWS, Azure, GCP, and Kubernetes. Provides automated compliance scanning (CIS, NIST, HIPAA) and SaaS posture auditing. |
 | **[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)** 🛠️ | <a href="https://github.com/zaproxy/zaproxy/stargazers"><img src="https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white" alt="Stars"/></a> | **OWASP ZAP API & Web Proxy**. World's most widely used web application and API security scanner. Used in custom CASB stacks to intercept, audit, and proxy SaaS traffic and web APIs. |
